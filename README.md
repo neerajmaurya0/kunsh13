@@ -42,7 +42,7 @@
 ---
 
 [youtube]: https://www.youtube.com/channel/UChjcJ5YiWWuZ2jurCQD-JVw
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/kunsh13_/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5
 [css3]: https://en.wikipedia.org/wiki/CSS
