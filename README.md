@@ -31,7 +31,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Android TV on Raspberry Pi 4:i insalled Andorid11 TV on a Raspberry pi 4! ](https://www.youtube.com/watch?v=r5ADG2JfqE8&t=150s)
+- [I insalled Andorid11 TV on a Raspberry pi 4! ](https://www.youtube.com/watch?v=r5ADG2JfqE8&t=150s)
 - [WiFi ESP32 LED Control Project](https://www.youtube.com/watch?v=Hgq2KX5w-_o)
 - [Raspberry Pi 4 setup for beginner ⚡](https://www.youtube.com/watch?v=xyIubuL3Bs8)
 - [Arduino Humidity Temperature Project](https://www.youtube.com/watch?v=dFksEX6Vnfc)
