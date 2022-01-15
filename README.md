@@ -48,7 +48,7 @@
 [css3]: https://en.wikipedia.org/wiki/CSS
 [javascript]: https://www.javascript.com/
 [nodejs]: https://nodejs.org/en/
-[git]: https://reactjs.org/
+[git]: https://git-scm.com/
 [githib]:https://github.com/
 [react]: https://reactjs.org/
 [terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
